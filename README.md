@@ -1,3 +1,4 @@
 # firstrepo
-Venkata Sravani komatineni
-i was very intrested in learning web apps
+* sravani
+*** northwest
+i am staying in horizones 
